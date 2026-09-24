@@ -1,1 +1,0 @@
-{"guest_account_info":{"com.garena.msdk.guest_password":"F6D45852E0115D9AE53C9C7F3327BC41836B9ACA11394720679CBB1B4DECAEF8","com.garena.msdk.guest_uid":"5515244484"}}
