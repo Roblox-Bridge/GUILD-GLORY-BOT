@@ -1,0 +1,1 @@
+See README_DISCORD.md (install, environment variables, Discord Developer Portal, iPhone/hosting guide, troubleshooting).
